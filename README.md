@@ -3,8 +3,4 @@
 Hi!
 
 
-````
-print("Hello")
-```
-d
-````
+````print("Hello")```d````
